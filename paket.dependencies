@@ -1,0 +1,4 @@
+framework: net35
+source https://www.nuget.org/api/v2
+nuget FAKE framework: net35
+nuget FSharp.Core 3.0.2 framework: net35
